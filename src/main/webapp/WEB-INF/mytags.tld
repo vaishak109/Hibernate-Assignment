@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<taglib>
+	<tlibversion>2.0</tlibversion>
+	<jspversion>2.0</jspversion>
+	<shortname>CurrentDate</shortname>
+	<info> The Library displays the current date</info>
+	<uri>CurrentDate</uri>
+	<tag>
+	  <name>displaydate</name>
+	  <tagclass>com.employee.tags.MyTagHandler</tagclass>
+	  <info> Displays the current date</info>
+	</tag>
+</taglib>
